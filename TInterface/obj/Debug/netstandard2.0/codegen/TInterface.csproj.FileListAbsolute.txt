@@ -1,0 +1,9 @@
+E:\learntest\Orleans\2\host\TInterface\bin\Debug\netstandard2.0\TInterface.deps.json
+E:\learntest\Orleans\2\host\TInterface\bin\Debug\netstandard2.0\TInterface.dll
+E:\learntest\Orleans\2\host\TInterface\obj\Debug\netstandard2.0\TInterface.csprojResolveAssemblyReference.cache
+E:\learntest\Orleans\2\host\TInterface\obj\Debug\netstandard2.0\TInterface.csproj.CoreCompileInputs.cache
+E:\learntest\Orleans\2\host\TInterface\obj\Debug\netstandard2.0\TInterface.AssemblyInfoInputs.cache
+E:\learntest\Orleans\2\host\TInterface\obj\Debug\netstandard2.0\TInterface.AssemblyInfo.cs
+E:\learntest\Orleans\2\host\TInterface\bin\Debug\netstandard2.0\TInterface.pdb
+E:\learntest\Orleans\2\host\TInterface\obj\Debug\netstandard2.0\codegen\TInterface.csproj.CoreCompileInputs.cache
+E:\learntest\Orleans\2\host\TInterface\obj\Debug\netstandard2.0\codegen\TInterface.AssemblyInfoInputs.cache

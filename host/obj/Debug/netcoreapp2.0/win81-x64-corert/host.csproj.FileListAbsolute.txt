@@ -1,0 +1,17 @@
+E:\learntest\Orleans\2\host\host\bin\Debug\netcoreapp2.0\win81-x64-corert\hostpolicy.dll
+E:\learntest\Orleans\2\host\host\bin\Debug\netcoreapp2.0\win81-x64-corert\hostfxr.dll
+E:\learntest\Orleans\2\host\host\bin\Debug\netcoreapp2.0\win81-x64-corert\host.exe
+E:\learntest\Orleans\2\host\host\bin\Debug\netcoreapp2.0\win81-x64-corert\host.deps.json
+E:\learntest\Orleans\2\host\host\bin\Debug\netcoreapp2.0\win81-x64-corert\host.runtimeconfig.json
+E:\learntest\Orleans\2\host\host\bin\Debug\netcoreapp2.0\win81-x64-corert\host.runtimeconfig.dev.json
+E:\learntest\Orleans\2\host\host\bin\Debug\netcoreapp2.0\win81-x64-corert\host.dll
+E:\learntest\Orleans\2\host\host\bin\Debug\netcoreapp2.0\win81-x64-corert\host.pdb
+E:\learntest\Orleans\2\host\host\bin\Debug\netcoreapp2.0\win81-x64-corert\TGrains.dll
+E:\learntest\Orleans\2\host\host\bin\Debug\netcoreapp2.0\win81-x64-corert\TInterface.dll
+E:\learntest\Orleans\2\host\host\bin\Debug\netcoreapp2.0\win81-x64-corert\TGrains.pdb
+E:\learntest\Orleans\2\host\host\bin\Debug\netcoreapp2.0\win81-x64-corert\TInterface.pdb
+E:\learntest\Orleans\2\host\host\obj\Debug\netcoreapp2.0\win81-x64-corert\host.csproj.CoreCompileInputs.cache
+E:\learntest\Orleans\2\host\host\obj\Debug\netcoreapp2.0\win81-x64-corert\host.AssemblyInfoInputs.cache
+E:\learntest\Orleans\2\host\host\obj\Debug\netcoreapp2.0\win81-x64-corert\host.AssemblyInfo.cs
+E:\learntest\Orleans\2\host\host\obj\Debug\netcoreapp2.0\win81-x64-corert\host.dll
+E:\learntest\Orleans\2\host\host\obj\Debug\netcoreapp2.0\win81-x64-corert\host.pdb

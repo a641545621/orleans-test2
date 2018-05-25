@@ -1,0 +1,13 @@
+E:\learntest\Orleans\2\host\client\bin\Debug\netcoreapp2.0\client.deps.json
+E:\learntest\Orleans\2\host\client\bin\Debug\netcoreapp2.0\client.runtimeconfig.json
+E:\learntest\Orleans\2\host\client\bin\Debug\netcoreapp2.0\client.runtimeconfig.dev.json
+E:\learntest\Orleans\2\host\client\bin\Debug\netcoreapp2.0\client.dll
+E:\learntest\Orleans\2\host\client\bin\Debug\netcoreapp2.0\client.pdb
+E:\learntest\Orleans\2\host\client\bin\Debug\netcoreapp2.0\TInterface.dll
+E:\learntest\Orleans\2\host\client\bin\Debug\netcoreapp2.0\TInterface.pdb
+E:\learntest\Orleans\2\host\client\obj\Debug\netcoreapp2.0\client.csprojResolveAssemblyReference.cache
+E:\learntest\Orleans\2\host\client\obj\Debug\netcoreapp2.0\client.csproj.CoreCompileInputs.cache
+E:\learntest\Orleans\2\host\client\obj\Debug\netcoreapp2.0\client.AssemblyInfoInputs.cache
+E:\learntest\Orleans\2\host\client\obj\Debug\netcoreapp2.0\client.AssemblyInfo.cs
+E:\learntest\Orleans\2\host\client\obj\Debug\netcoreapp2.0\client.dll
+E:\learntest\Orleans\2\host\client\obj\Debug\netcoreapp2.0\client.pdb

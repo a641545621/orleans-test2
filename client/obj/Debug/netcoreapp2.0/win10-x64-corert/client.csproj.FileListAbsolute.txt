@@ -1,0 +1,16 @@
+E:\learntest\Orleans\2\host\client\bin\Debug\netcoreapp2.0\win10-x64-corert\hostpolicy.dll
+E:\learntest\Orleans\2\host\client\bin\Debug\netcoreapp2.0\win10-x64-corert\hostfxr.dll
+E:\learntest\Orleans\2\host\client\bin\Debug\netcoreapp2.0\win10-x64-corert\client.exe
+E:\learntest\Orleans\2\host\client\bin\Debug\netcoreapp2.0\win10-x64-corert\client.deps.json
+E:\learntest\Orleans\2\host\client\bin\Debug\netcoreapp2.0\win10-x64-corert\client.runtimeconfig.json
+E:\learntest\Orleans\2\host\client\bin\Debug\netcoreapp2.0\win10-x64-corert\client.runtimeconfig.dev.json
+E:\learntest\Orleans\2\host\client\bin\Debug\netcoreapp2.0\win10-x64-corert\client.dll
+E:\learntest\Orleans\2\host\client\bin\Debug\netcoreapp2.0\win10-x64-corert\client.pdb
+E:\learntest\Orleans\2\host\client\bin\Debug\netcoreapp2.0\win10-x64-corert\TInterface.dll
+E:\learntest\Orleans\2\host\client\bin\Debug\netcoreapp2.0\win10-x64-corert\TInterface.pdb
+E:\learntest\Orleans\2\host\client\obj\Debug\netcoreapp2.0\win10-x64-corert\client.csprojResolveAssemblyReference.cache
+E:\learntest\Orleans\2\host\client\obj\Debug\netcoreapp2.0\win10-x64-corert\client.csproj.CoreCompileInputs.cache
+E:\learntest\Orleans\2\host\client\obj\Debug\netcoreapp2.0\win10-x64-corert\client.AssemblyInfoInputs.cache
+E:\learntest\Orleans\2\host\client\obj\Debug\netcoreapp2.0\win10-x64-corert\client.AssemblyInfo.cs
+E:\learntest\Orleans\2\host\client\obj\Debug\netcoreapp2.0\win10-x64-corert\client.dll
+E:\learntest\Orleans\2\host\client\obj\Debug\netcoreapp2.0\win10-x64-corert\client.pdb

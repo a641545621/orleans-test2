@@ -1,0 +1,15 @@
+E:\learntest\Orleans\2\host\host\bin\Debug\netcoreapp2.0\host.deps.json
+E:\learntest\Orleans\2\host\host\bin\Debug\netcoreapp2.0\host.runtimeconfig.json
+E:\learntest\Orleans\2\host\host\bin\Debug\netcoreapp2.0\host.runtimeconfig.dev.json
+E:\learntest\Orleans\2\host\host\bin\Debug\netcoreapp2.0\host.dll
+E:\learntest\Orleans\2\host\host\bin\Debug\netcoreapp2.0\host.pdb
+E:\learntest\Orleans\2\host\host\bin\Debug\netcoreapp2.0\TGrains.dll
+E:\learntest\Orleans\2\host\host\bin\Debug\netcoreapp2.0\TInterface.dll
+E:\learntest\Orleans\2\host\host\bin\Debug\netcoreapp2.0\TGrains.pdb
+E:\learntest\Orleans\2\host\host\bin\Debug\netcoreapp2.0\TInterface.pdb
+E:\learntest\Orleans\2\host\host\obj\Debug\netcoreapp2.0\host.csprojResolveAssemblyReference.cache
+E:\learntest\Orleans\2\host\host\obj\Debug\netcoreapp2.0\host.csproj.CoreCompileInputs.cache
+E:\learntest\Orleans\2\host\host\obj\Debug\netcoreapp2.0\host.AssemblyInfoInputs.cache
+E:\learntest\Orleans\2\host\host\obj\Debug\netcoreapp2.0\host.AssemblyInfo.cs
+E:\learntest\Orleans\2\host\host\obj\Debug\netcoreapp2.0\host.dll
+E:\learntest\Orleans\2\host\host\obj\Debug\netcoreapp2.0\host.pdb

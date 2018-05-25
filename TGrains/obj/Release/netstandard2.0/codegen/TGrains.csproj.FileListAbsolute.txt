@@ -1,0 +1,7 @@
+E:\learntest\Orleans\2\host\TGrains\bin\Release\netstandard2.0\TGrains.deps.json
+E:\learntest\Orleans\2\host\TGrains\bin\Release\netstandard2.0\TGrains.dll
+E:\learntest\Orleans\2\host\TGrains\bin\Release\netstandard2.0\TGrains.pdb
+E:\learntest\Orleans\2\host\TGrains\bin\Release\netstandard2.0\TInterface.dll
+E:\learntest\Orleans\2\host\TGrains\bin\Release\netstandard2.0\TInterface.pdb
+E:\learntest\Orleans\2\host\TGrains\obj\Release\netstandard2.0\codegen\TGrains.csproj.CoreCompileInputs.cache
+E:\learntest\Orleans\2\host\TGrains\obj\Release\netstandard2.0\codegen\TGrains.AssemblyInfoInputs.cache
